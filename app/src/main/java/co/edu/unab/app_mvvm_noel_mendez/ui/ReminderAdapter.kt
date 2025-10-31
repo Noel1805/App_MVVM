@@ -1,4 +1,4 @@
-package co.edu.unab.app_mvvm_noel_mendez.ui.theme
+package co.edu.unab.app_mvvm_noel_mendez.ui
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

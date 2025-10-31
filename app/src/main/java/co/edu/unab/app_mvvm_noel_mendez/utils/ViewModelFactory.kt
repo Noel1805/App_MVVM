@@ -3,7 +3,7 @@ package co.edu.unab.app_mvvm_noel_mendez.utils
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import co.edu.unab.app_mvvm_noel_mendez.data.ReminderRepository
-import co.edu.unab.app_mvvm_noel_mendez.ui.theme.ReminderViewModel
+import co.edu.unab.app_mvvm_noel_mendez.ui.ReminderViewModel
 
 class ViewModelFactory(private val repository: ReminderRepository) :
     ViewModelProvider.Factory {
